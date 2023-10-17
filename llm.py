@@ -9,7 +9,7 @@ from langchain.chains import RetrievalQA
 from langchain.llms import OpenAIChat
 import pickle
 
-key="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"
+key=''
 
 llm = OpenAI(openai_api_key=key, temperature=0.5)
 
