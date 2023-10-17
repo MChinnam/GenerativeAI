@@ -3,7 +3,7 @@ pn.extension()
 
 import openai
 
-openai.api_key="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"
+openai.api_key=""
 panels = [] # collect display 
 questions=[  "Education qualification",
             "Years of experience",
